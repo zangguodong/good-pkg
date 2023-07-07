@@ -27,6 +27,12 @@
       }
     }
   },
+  "release": {
+    "branches": ["main"]
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zangguodong/good-pkg.git"
